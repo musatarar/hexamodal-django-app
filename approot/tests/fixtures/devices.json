@@ -1,0 +1,8 @@
+[
+  {"model": "approot.device", "pk": 1,
+   "fields": {"dev_eui": "aaaa0000aaaa0000", "name": "Sensor Alpha",   "fcnt_latest": 50, "passing": true}},
+  {"model": "approot.device", "pk": 2,
+   "fields": {"dev_eui": "bbbb1111bbbb1111", "name": "Sensor Beta",    "fcnt_latest": 3,  "passing": true}},
+  {"model": "approot.device", "pk": 3,
+   "fields": {"dev_eui": "cccc2222cccc2222", "name": "Sensor Charlie", "fcnt_latest": 20, "passing": false}}
+]
